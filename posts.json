@@ -106,7 +106,9 @@
   "post": 11,
   "at": "2026-11-27T12:00:00[America/Toronto]",
   "action": "create_image_post",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/sufyysid/bunkr-social/main/posts/bunkr-11-1.jpg"
+  ],
   "caption": "Simple pricing, no surprises.\n\nBay 1 is our right-hand bay: $10.99/hr from 12 AM to 10 AM, $19.99/hr from 10 AM to 12 AM.\nBays 2 and 3 have Auto Tee and work for lefties too: $15.99/hr from 12 AM to 10 AM, $24.99/hr from 10 AM to 12 AM.\n\nPay as you play, no memberships. Pick your room at the link in bio.\n\n#TheBunkr #IndoorGolf #GolfSimulator #NewmarketOntario #YorkRegion #ThingsToDoNewmarket #GolfWithFriends",
   "check_prices": true
  },
@@ -114,7 +116,9 @@
   "post": 12,
   "at": "2026-11-29T11:00:00[America/Toronto]",
   "action": "create_image_post",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/sufyysid/bunkr-social/main/posts/bunkr-12-1.jpg"
+  ],
   "caption": "Be honest. What's your one golf goal before spring?\n\nA. Break 90\nB. Hit it farther\nC. Fix my slice\nD. Just keep swinging\n\nDrop your letter in the comments.\n\n#TheBunkr #IndoorGolf #GolfSimulator #NewmarketOntario #YorkRegion #GolfLife #GolfGoals"
  },
  {
@@ -149,14 +153,18 @@
   "post": 15,
   "at": "2026-12-04T12:00:00[America/Toronto]",
   "action": "create_image_post",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/sufyysid/bunkr-social/main/posts/bunkr-15-1.jpg"
+  ],
   "caption": "Holiday party for the team, the crew or the family?\n\nTake over all three rooms at The Bunkr for the night. Everyone plays, nobody waits.\n\nWe put together custom packages for groups, birthdays and corporate events. Send us a message or reach out through thebunkrindoorgolf.com.\n\n#TheBunkr #IndoorGolf #GolfSimulator #NewmarketOntario #YorkRegion #HolidayParty #TeamBuilding"
  },
  {
   "post": 16,
   "at": "2026-12-06T11:00:00[America/Toronto]",
   "action": "create_image_post",
-  "image_urls": [],
+  "image_urls": [
+   "https://raw.githubusercontent.com/sufyysid/bunkr-social/main/posts/bunkr-16-1.jpg"
+  ],
   "caption": "Before modern golf balls, golfers played the \"feathery\": a leather pouch packed with wet feathers, used for about two hundred years.\n\nYour ball today flies a lot farther. Come see exactly how far. Link in bio.\n\n#TheBunkr #IndoorGolf #GolfSimulator #NewmarketOntario #YorkRegion #GolfHistory #GolfFacts"
  }
 ]
